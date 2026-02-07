@@ -1,1 +1,5 @@
 Flask==2.3.3
+huggingface_hub>=0.15.0
+requests>=2.25.0
+python-dotenv>=1.0.0
+textstat>=0.7.0
